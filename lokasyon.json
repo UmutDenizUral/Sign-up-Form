@@ -1,0 +1,59 @@
+{
+    "ulke": [
+        "turkiye",
+        "ingiltere"
+    ],
+    "turkiye": {
+        "iller": [
+            "istanbul",
+            "artvin",
+            "antalya"
+        ]
+    },
+    "ingiltere": {
+        "iller": [
+            "londra",
+            "birmingham"
+        ]
+    },
+    "iller": {
+        "istanbul": {
+            "ilce": [
+                "üsküdar",
+                "kadıköy",
+                "beykoz",
+                "beşiktaş"
+            ]
+        },
+        "artvin": {
+            "ilce": [
+                "savsat",
+                "murgul",
+                "hopa",
+                "yusufeli"
+            ]
+        },
+        "antalya": {
+            "ilce": [
+                "alanya",
+                "kemer",
+                "manavgat",
+                "gazipaşa"
+            ]
+        },
+        "londra": {
+            "ilce": [
+                "Westminster",
+                "Camden",
+                "Hackney",
+                "Chelsea"
+            ]
+        },
+        "birmingham": {
+            "ilce": [
+                "Harrow",
+                "Wembley"
+            ]
+        }
+    }
+}
